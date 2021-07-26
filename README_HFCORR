@@ -1,0 +1,2 @@
+In processerdhadrons_hfcorr.py i create pairs of D0 hadrons and calculate angle between them. The database with phi calculated then stored to pickles.
+analyzerdhadrons_hfcorr.py contains standard 1D and 2D fits for signal and background and unbinned ROOFits for complicated surfaces. Pickles created in processor are used for unbinned fit.
